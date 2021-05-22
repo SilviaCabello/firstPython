@@ -8,3 +8,6 @@ contacts = {
         {"name": "Ron Weasley", "email": "ron@example.com"}
     ]
 }
+
+for student in contacts["students"]:
+    print(student["email"])
