@@ -13,10 +13,10 @@
     ],
     "base":"stations",
     "main":{
-       "temp":291.43,
-       "feels_like":290.51,
-       "temp_min":289.83,
-       "temp_max":292.97,
+       "temp":18.38,
+       "feels_like":17.47,
+       "temp_min":16.68,
+       "temp_max":19.82,
        "pressure":1020,
        "humidity":46,
        "sea_level":1020,
@@ -31,7 +31,7 @@
     "clouds":{
        "all":0
     },
-    "dt":1621846505,
+    "dt":1621846800,
     "sys":{
        "type":2,
        "id":265375,
@@ -44,3 +44,4 @@
     "name":"Valencia",
     "cod":200
  }
+ 
